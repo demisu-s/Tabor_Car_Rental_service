@@ -42,9 +42,9 @@ function Footer() {
   
               <ul className="footer-content__2">
                 <li>Company</li>
-                <li>
+                {/* <li>
                   <a href="#home"></a>
-                </li>
+                </li> */}
                 <li>
                   <a href="#home">Careers</a>
                 </li>
